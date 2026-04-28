@@ -28,3 +28,6 @@
 ```bash
 git clone https://github.com/XIEXU0706/Law_project.git
 cd Law_project
+
+### 2.界面展示
+![前端界面](images/front.png)
