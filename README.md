@@ -21,6 +21,8 @@
 - 框架：[Vue.js](https://vuejs.org/) + Element UI
 - 布局方案：纯 CSS Flexbox 响应式架构
 - 文本渲染：Markdown-it
+- 界面展示
+![前端界面](images/front.png)
 
 ## 🚀 快速启动
 
@@ -29,5 +31,3 @@
 git clone https://github.com/XIEXU0706/Law_project.git
 cd Law_project
 
-### 2.界面展示
-![前端界面](images/front.png)
